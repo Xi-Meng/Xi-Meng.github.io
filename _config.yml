@@ -7,8 +7,8 @@
 
 # Site Settings
 title                    : "Mengyue Xi"
-description              : "description"
-repository               : "repository"
+description              : #"description"
+repository               : # "repository"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Mengyue Xi"
   avatar           : "images/zhuzhuxia.jpg"
-  bio              : "Lorem ipsum College"
+  bio              : "SUN YAT-SEN UNIVERSITY"
   location         : "Guangzhou/Chongqing, China"
   employer         :
   pubmed           : 

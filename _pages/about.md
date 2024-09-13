@@ -36,7 +36,7 @@ If you are interested in discussing with me, welcome and feel free to drop me an
 - *2019.09 - 2023.06*, Undergraduate, Chongqing University (90.63/100), Chongqing.
 
 # 💻 Internships
-- *2022.10 - 2023.08*, [Cider](https://www.shopcider.com/), Recommendation Algorithm Engineer, China.
+- *2022.10 - 2023.08*, [Cider](https://www.shopcider.com/), Recommendation Algorithm Intern, China.
 
 # 🏅 Honors and Awards
 - Outstanding Graduate, Distinguished Student, Outstanding Student, and Outstanding Student Cadre of Chongqing University, 2020 - 2023

@@ -26,11 +26,11 @@ Here is my  <a href ="../certificates/CV.pdf">CV</a>.
 
 # 📝 Publications
 - Mpache: Interaction Aware Multi-level Cache Bypassing on GPUs
-  - Mengyue Xi, Tianyu Guo, Xuanteng Huang, Zejia Lin, Xianwei Zhang\*
+  - **Mengyue Xi**, Tianyu Guo, Xuanteng Huang, Zejia Lin, Xianwei Zhang\*
   - Accepted by ASP-DAC 2025.
 
 - GoPTX: Fine-grained GPU Kernel Fusion by PTX-level Instruction Weaving
-  - Kan Wu, Zejia Lin, Mengyue Xi, Zhongchun Zheng, Wenxuan Pan, Xianwei Zhang, Yutong Lu
+  - Kan Wu, Zejia Lin, **Mengyue Xi**, Zhongchun Zheng, Wenxuan Pan, Xianwei Zhang, Yutong Lu
   - Under review by CGO 2025.
 
 # 🌞 Academic Services

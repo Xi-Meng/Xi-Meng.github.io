@@ -22,10 +22,16 @@ I am a master student in [arcSYSu](https://github.com/arcsysu) at [SUN YAT-SEN U
 My primary research interest lies in the field of **GPU systems and compilation**. Specially now I am focusing on LLVM, cache bypass, and kernel fusion.
 If you are interested in discussing with me, welcome and feel free to drop me an email (ximy@mail2.sysu.edu.cn, cquxmy@qq.com) or reach out via WeChat (ID: mengyue414141).
 
+Here is my  <a href ="../certificates/CV.pdf">CV</a>.
+
 # 📝 Publications
 - Mpache: Interaction Aware Multi-level Cache Bypassing on GPUs
   - Mengyue Xi, Tianyu Guo, Xuanteng Huang, Zejia Lin, Xianwei Zhang\*
   - Accepted by ASP-DAC 2025.
+
+- GoPTX: Fine-grained GPU Kernel Fusion by PTX-level Instruction Weaving
+  - Kan Wu, Zejia Lin, Mengyue Xi, Zhongchun Zheng, Wenxuan Pan, Xianwei Zhang, Yutong Lu
+  - Under review by CGO 2025.
 
 # 🌞 Academic Services
 - Teaching Assistant: [Compilation Principle & Construction](https://arcsysu.github.io/teach/dcs290/s2024.html) at SUN YAT-SEN University, spring 2024.
@@ -36,9 +42,10 @@ If you are interested in discussing with me, welcome and feel free to drop me an
 - *2019.09 - 2023.06*, Undergraduate, Chongqing University (90.63/100), Chongqing.
 
 # 💻 Internships
-- *2022.10 - 2023.08*, [Cider](https://www.shopcider.com/), Recommendation Algorithm Intern, China.
+- *2022.10 - 2023.08*, [Cider](https://www.shopcider.com/), Recommendation Engineering Intern, China.
 
 # 🏅 Honors and Awards
+- First-Class Scholarship, Sun Yat-sen University (2024)
 - Outstanding Graduate, Distinguished Student, Outstanding Student, and Outstanding Student Cadre of Chongqing University, 2020 - 2023
 - National Inspirational Scholarship in Chongqing University, 2021.
 - National Scholarship in Chongqing University, 2020

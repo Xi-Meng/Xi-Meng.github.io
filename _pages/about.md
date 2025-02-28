@@ -31,7 +31,11 @@ If you are interested in discussing with me, welcome and feel free to drop me an
 
 - GoPTX: Fine-grained GPU Kernel Fusion by PTX-level Instruction Weaving
   - Kan Wu, Zejia Lin, **Mengyue Xi**, Zhongchun Zheng, Wenxuan Pan, Xianwei Zhang, Yutong Lu
-  - Under review by CGO 2025.
+  - Accepted by DAC 2025.
+
+# 💻 Internships
+- *2024.02 - Now*, [NVIDIA](https://www.nvidia.cn/), Accelerated Compute System Performance Architect Intern, China.
+- *2022.10 - 2023.08*, [Cider](https://www.shopcider.com/), Recommendation Engineering Intern, China.
 
 # 🌞 Academic Services
 - Teaching Assistant: [Compilation Principle & Construction](https://arcsysu.github.io/teach/dcs290/s2024.html) at SUN YAT-SEN University, spring 2024.
@@ -41,11 +45,9 @@ If you are interested in discussing with me, welcome and feel free to drop me an
 - *2023.09 - now*, Master, SUN YAT-SEN University, Guangzhou. 
 - *2019.09 - 2023.06*, Undergraduate, Chongqing University (90.63/100), Chongqing.
 
-# 💻 Internships
-- *2022.10 - 2023.08*, [Cider](https://www.shopcider.com/), Recommendation Engineering Intern, China.
 
 # 🏅 Honors and Awards
-- First-Class Scholarship, Sun Yat-sen University (2024)
+- First-Class Scholarship, Samsung Scholarship, Sun Yat-sen University (2024)
 - Outstanding Graduate, Distinguished Student, Outstanding Student, and Outstanding Student Cadre of Chongqing University, 2020 - 2023
 - National Inspirational Scholarship in Chongqing University, 2021.
 - National Scholarship in Chongqing University, 2020

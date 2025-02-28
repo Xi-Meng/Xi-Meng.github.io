@@ -34,7 +34,7 @@ If you are interested in discussing with me, welcome and feel free to drop me an
   - Accepted by DAC 2025.
 
 # 💻 Internships
-- *2024.02 - Now*, [NVIDIA](https://www.nvidia.cn/), Accelerated Compute System Performance Architect Intern, China.
+- *2025.02 - Now*, [NVIDIA](https://www.nvidia.cn/), Accelerated Compute System Performance Architect Intern, China.
 - *2022.10 - 2023.08*, [Cider](https://www.shopcider.com/), Recommendation Engineering Intern, China.
 
 # 🌞 Academic Services

@@ -35,8 +35,8 @@ If you are interested in discussing with me, welcome and feel free to drop me an
 
 # 💻 Internships
 <!-- - *2025.02 - Now*, [NVIDIA](https://www.nvidia.cn/), Accelerated Compute System Performance Architect Intern, China. -->
-- *2025.02 - Now*, [NVIDIA](https://www.nvidia.cn/), Accelerated Compute System Performance Architect Intern, China. <img src="images/nvidia-logo-vert.png" width="22" height="22"> 
-- *2022.10 - 2023.08*, [Cider](https://www.shopcider.com/), Recommendation Engineering Intern, China.
+- *2025.02 - Now*, [NVIDIA](https://www.nvidia.cn/), Accelerated Compute System Performance Architect Intern, China. <img src="images/nvidia-logo-vert.png"> 
+- *2022.10 - 2023.08*, [Cider](https://www.shopcider.com/), Recommendation Engineering Intern, China. <img src="images/cider.jpg"> 
 
 # 🌞 Academic Services
 - Teaching Assistant: [Compilation Principle & Construction](https://arcsysu.github.io/teach/dcs290/s2024.html) at SUN YAT-SEN University, spring 2024.

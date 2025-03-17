@@ -22,7 +22,7 @@ I am a master student in [arcSYSu](https://github.com/arcsysu) at [SUN YAT-SEN U
 My primary research interest lies in the field of **GPU systems and compilation**. Specially now I am focusing on LLVM, cache bypass, and kernel fusion.
 If you are interested in discussing with me, welcome and feel free to drop me an email (ximy@mail2.sysu.edu.cn, cquxmy@qq.com) or reach out via WeChat (ID: mengyue414141).
 
-<!-- Here is my  <a href ="../certificates/CV.pdf">CV</a>. -->
+Here is my  <a href ="../certificates/resume.pdf">resume</a>.
 
 # 📝 Publications
 - [Mpache: Interaction Aware Multi-level Cache Bypassing on GPUs](https://dl.acm.org/doi/10.1145/3658617.3697568)

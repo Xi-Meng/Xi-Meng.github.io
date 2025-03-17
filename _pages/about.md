@@ -45,8 +45,8 @@ If you are interested in discussing with me, welcome and feel free to drop me an
 - Sub-Reviewer: NAS (2024)
 
 # 📖 Educations
-- *2023.09 - now*, Master, SUN YAT-SEN University, Guangzhou. 
-- *2019.09 - 2023.06*, Undergraduate, Chongqing University (90.63/100), Chongqing.
+- *2023.09 - now*, Master, SUN YAT-SEN University (GPA: 94.42/100.00, Rank: 2/78), Guangzhou. 
+- *2019.09 - 2023.06*, Undergraduate, Chongqing University (GPA: 90.63/100, Rank: 16/219), Chongqing.
 
 
 # 🏅 Honors and Awards

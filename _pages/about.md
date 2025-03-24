@@ -22,10 +22,10 @@ I am a master student in [arcSYSu](https://github.com/arcsysu) at [SUN YAT-SEN U
 My primary research interest lies in the field of **GPU systems and compilation**. Specially now I am focusing on LLVM, cache bypass, and kernel fusion.
 If you are interested in discussing with me, welcome and feel free to drop me an email (ximy@mail2.sysu.edu.cn, cquxmy@qq.com) or reach out via WeChat (ID: mengyue414141).
 
+I am currently interning at NVIDIA in Shanghai, China. My work involves performance simulation of GPU architectures.
+
 <!-- Here is my  <a href ="../files/CV.pdf">CV</a>. -->
 Here is my <a href="../files/CV.pdf" title="Mengyue Xi's CV">CV</a>.
-
-I am currently interning at NVIDIA in Shanghai, China. My work involves performance simulation of GPU architectures.
 
 
 # 📝 Publications

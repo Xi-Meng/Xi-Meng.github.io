@@ -25,6 +25,8 @@ If you are interested in discussing with me, welcome and feel free to drop me an
 <!-- Here is my  <a href ="../files/CV.pdf">CV</a>. -->
 Here is my <a href="../files/CV.pdf" title="Mengyue Xi's CV">CV</a>.
 
+I am currently interning at NVIDIA in Shanghai, China. My work involves performance simulation of GPU architectures.
+
 
 # 📝 Publications
 - [Mpache: Interaction Aware Multi-level Cache Bypassing on GPUs](https://dl.acm.org/doi/10.1145/3658617.3697568)

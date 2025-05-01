@@ -25,13 +25,17 @@ If you are interested in discussing with me, welcome and feel free to drop me an
 I am currently interning at NVIDIA in Shanghai, China. My work involves performance prediction of GPU architectures.
 
 <!-- Here is my  <a href ="../files/CV.pdf">CV</a>. -->
-Here is my <a href="../files/CV.pdf" title="Mengyue Xi's CV">CV</a>.
+<!-- Here is my <a href="../files/CV.pdf" title="Mengyue Xi's CV">CV</a>. -->
 
 
 # 📝 Publications
 - [Mpache: Interaction Aware Multi-level Cache Bypassing on GPUs](https://dl.acm.org/doi/10.1145/3658617.3697568)
   - **Mengyue Xi**, Tianyu Guo, Xuanteng Huang, Zejia Lin, Xianwei Zhang\*
-  - Accepted by ASP-DAC 2025.
+  - The 30th Asia and South Pacific Design Automation Conference (ASP-DAC), Tokyo Odaiba Miraikan, Japan, January 2025.
+
+- CacheC: LLM-based GPU Cache Management to Enhance Kernel Concurrency
+  - **Mengyue Xi**, Jingyi He, Xianwei Zhang\*
+  - Accepted by EURO-PAR 2025.
 
 - GoPTX: Fine-grained GPU Kernel Fusion by PTX-level Instruction Weaving
   - Kan Wu, Zejia Lin, **Mengyue Xi**, Zhongchun Zheng, Wenxuan Pan, Xianwei Zhang, Yutong Lu

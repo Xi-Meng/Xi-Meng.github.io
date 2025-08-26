@@ -33,9 +33,9 @@ I am currently interning at NVIDIA in Shanghai, China. My work involves performa
   - **Mengyue Xi**, Tianyu Guo, Xuanteng Huang, Zejia Lin, Xianwei Zhang\*
   - The 30th Asia and South Pacific Design Automation Conference (ASP-DAC), Tokyo Odaiba Miraikan, Japan, January 2025.
 
-- CacheC: LLM-based GPU Cache Management to Enhance Kernel Concurrency
+- [CacheC: LLM-based GPU Cache Management to Enhance Kernel Concurrency](https://link.springer.com/chapter/10.1007/978-3-031-99857-7_9)
   - **Mengyue Xi**, Jingyi He, Xianwei Zhang\*
-  - Accepted by EURO-PAR 2025.
+  - The 31st European Conference on Parallel and Distributed Processing (Euro-Par), Dresden, Germany, August 25–29, 2025.
 
 - GoPTX: Fine-grained GPU Kernel Fusion by PTX-level Instruction Weaving
   - Kan Wu, Zejia Lin, **Mengyue Xi**, Zhongchun Zheng, Wenxuan Pan, Xianwei Zhang, Yutong Lu

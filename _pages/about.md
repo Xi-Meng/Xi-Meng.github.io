@@ -19,7 +19,7 @@ redirect_from:
 
 I am a master student in [arcSYSu](https://github.com/arcsysu) at [SUN YAT-SEN University](https://www.sysu.edu.cn/sysuen/), supervised by Assistant Professor [Xianwei Zhang](https://xianweiz.github.io/). Before that, I received my B.Eng. degree from [Chongqing University](http://www.cse.cqu.edu.cn/).
 
-My primary research interest lies in the field of **GPU systems and compilation**. Specially now I am focusing on LLVM, cache bypass, and kernel fusion.
+My primary research interest lies in the field of **GPU systems and memory architectures**. Specially now I am focusing on cache bypass, kernel fusion, and performance analysis.
 If you are interested in discussing with me, welcome and feel free to drop me an email (ximy@mail2.sysu.edu.cn, cquxmy@qq.com) or reach out via WeChat (ID: mengyue414141).
 
 I am currently interning at NVIDIA in Shanghai, China. My work involves performance prediction of GPU architectures.

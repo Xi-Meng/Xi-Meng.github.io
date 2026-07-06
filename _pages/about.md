@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a master student in [arcSYSu](https://github.com/arcsysu) at [SUN YAT-SEN University](https://www.sysu.edu.cn/sysuen/), supervised by Assistant Professor [Xianwei Zhang](https://xianweiz.github.io/). Before that, I received my B.Eng. degree from [Chongqing University](http://www.cse.cqu.edu.cn/).
+I received my master's degree from [arcSYSu](https://github.com/arcsysu) at [SUN YAT-SEN University](https://www.sysu.edu.cn/sysuen/), supervised by Assistant Professor [Xianwei Zhang](https://xianweiz.github.io/). Before that, I received my B.Eng. degree from [Chongqing University](http://www.cse.cqu.edu.cn/).
 
 My primary research interest lies in the field of **GPU systems and memory architectures**. Specially now I am focusing on cache bypass, kernel fusion, and performance analysis.
 If you are interested in discussing with me, welcome and feel free to drop me an email (mengyueh@outlook.com, cquxmy@qq.com) or reach out via WeChat (ID: mengyue414141).

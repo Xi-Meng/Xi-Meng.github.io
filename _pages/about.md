@@ -20,15 +20,19 @@ redirect_from:
 I am a master student in [arcSYSu](https://github.com/arcsysu) at [SUN YAT-SEN University](https://www.sysu.edu.cn/sysuen/), supervised by Assistant Professor [Xianwei Zhang](https://xianweiz.github.io/). Before that, I received my B.Eng. degree from [Chongqing University](http://www.cse.cqu.edu.cn/).
 
 My primary research interest lies in the field of **GPU systems and memory architectures**. Specially now I am focusing on cache bypass, kernel fusion, and performance analysis.
-If you are interested in discussing with me, welcome and feel free to drop me an email (ximy@mail2.sysu.edu.cn, cquxmy@qq.com) or reach out via WeChat (ID: mengyue414141).
+If you are interested in discussing with me, welcome and feel free to drop me an email (mengyueh@outlook.com, cquxmy@qq.com) or reach out via WeChat (ID: mengyue414141).
 
-I am currently interning at NVIDIA in Shanghai, China. My work involves performance prediction of GPU architectures.
+I’m taking a gap year to work on my PhD applications. Should you have an opening and take interest in my background, please feel free to contact me at mengyueh@outlook.com.
 
 <!-- Here is my  <a href ="../files/CV.pdf">CV</a>. -->
 <!-- Here is my <a href="../files/CV.pdf" title="Mengyue Xi's CV">CV</a>. -->
 
 
 # 📝 Publications
+- DeepSim: SOL-based Explainable GPU Performance Projection with Multi-Task Learning
+- **Mengyue Huang**, Zhanhui Li, Tim Purell, Mingqiao Li, Zhengru Wang, Nirmal Saxena
+- Accepted at SC 2026 (The International Conference for High Performance Computing, Networking, Storage, and Analysis), Chicago, IL, USA, Nov. 15–20, 2026.
+
 - [Mpache: Interaction Aware Multi-level Cache Bypassing on GPUs](https://dl.acm.org/doi/10.1145/3658617.3697568)
   - **Mengyue Xi**, Tianyu Guo, Xuanteng Huang, Zejia Lin, Xianwei Zhang\*
   - The 30th Asia and South Pacific Design Automation Conference (ASP-DAC), Tokyo Odaiba Miraikan, Japan, January 2025.

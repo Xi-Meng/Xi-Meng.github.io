@@ -22,7 +22,7 @@ I received my master's degree from [arcSYSu](https://github.com/arcsysu) at [SUN
 My primary research interest lies in the field of **GPU systems and memory architectures**. Specially now I am focusing on cache bypass, kernel fusion, and performance analysis.
 If you are interested in discussing with me, welcome and feel free to drop me an email (ximyanne@proton.me, mengyueh@outlook.com) or reach out via WeChat (ID: mengyue414141).
 
-<span style="color: #d73a49;">I’m taking a gap year to work on my PhD applications. Should you have an opening and take interest in my background, please feel free to contact me at ximyanne@proton.me</span>
+<span style="color: #d73a49;">I’m taking a gap year to work on my PhD applications. Should you have an opening and take interest in my background, please feel free to contact me at mengyueh@outlook.com</span>
 
 <!-- Here is my  <a href ="../files/CV.pdf">CV</a>. -->
 <!-- Here is my <a href="../files/CV.pdf" title="Mengyue Xi's CV">CV</a>. -->

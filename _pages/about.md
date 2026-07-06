@@ -30,8 +30,8 @@ If you are interested in discussing with me, welcome and feel free to drop me an
 
 # 📝 Publications
 - DeepSim: SOL-based Explainable GPU Performance Projection with Multi-Task Learning
-- **Mengyue Huang**, Zhanhui Li, Tim Purell, Mingqiao Li, Zhengru Wang, Nirmal Saxena
-- Accepted at SC 2026 (The International Conference for High Performance Computing, Networking, Storage, and Analysis), Chicago, IL, USA, Nov. 15–20, 2026.
+  - **Mengyue Huang**, Zhanhui Li, Tim Purell, Mingqiao Li, Zhengru Wang, Nirmal Saxena
+  - Accepted at SC 2026 (The International Conference for High Performance Computing, Networking, Storage, and Analysis), Chicago, IL, USA, Nov. 15–20, 2026.
 
 - [Mpache: Interaction Aware Multi-level Cache Bypassing on GPUs](https://dl.acm.org/doi/10.1145/3658617.3697568)
   - **Mengyue Xi**, Tianyu Guo, Xuanteng Huang, Zejia Lin, Xianwei Zhang\*

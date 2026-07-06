@@ -22,7 +22,7 @@ I am a master student in [arcSYSu](https://github.com/arcsysu) at [SUN YAT-SEN U
 My primary research interest lies in the field of **GPU systems and memory architectures**. Specially now I am focusing on cache bypass, kernel fusion, and performance analysis.
 If you are interested in discussing with me, welcome and feel free to drop me an email (mengyueh@outlook.com, cquxmy@qq.com) or reach out via WeChat (ID: mengyue414141).
 
-I’m taking a gap year to work on my PhD applications. Should you have an opening and take interest in my background, please feel free to contact me at mengyueh@outlook.com.
+<span style="color: #d73a49;">I’m taking a gap year to work on my PhD applications. Should you have an opening and take interest in my background, please feel free to contact me at mengyueh@outlook.com.</span>
 
 <!-- Here is my  <a href ="../files/CV.pdf">CV</a>. -->
 <!-- Here is my <a href="../files/CV.pdf" title="Mengyue Xi's CV">CV</a>. -->
@@ -47,7 +47,7 @@ I’m taking a gap year to work on my PhD applications. Should you have an openi
 
 # 💻 Internships
 <!-- - *2025.02 - Now*, [NVIDIA](https://www.nvidia.cn/), Accelerated Compute System Performance Architect Intern, China. -->
-- *2025.02 - Now*, <img src="images/nvidia-logo-vert.png" width="60"> [NVIDIA](https://www.nvidia.cn/), Accelerated Compute System Performance Architect Intern, China. 
+- *2025.02 - 2026.02*, <img src="images/nvidia-logo-vert.png" width="60"> [NVIDIA](https://www.nvidia.cn/), Accelerated Compute System Performance Architect Intern, China. 
 
 - *2022.10 - 2023.08*, <img src="images/cider.jpg" width="60"> [Cider](https://www.shopcider.com/), Recommendation Engineering Intern, China. 
 

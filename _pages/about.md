@@ -20,9 +20,9 @@ redirect_from:
 I received my master's degree from [arcSYSu](https://github.com/arcsysu) at [SUN YAT-SEN University](https://www.sysu.edu.cn/sysuen/), supervised by Assistant Professor [Xianwei Zhang](https://xianweiz.github.io/). Before that, I received my B.Eng. degree from [Chongqing University](http://www.cse.cqu.edu.cn/).
 
 My primary research interest lies in the field of **GPU systems and memory architectures**. Specially now I am focusing on cache bypass, kernel fusion, and performance analysis.
-If you are interested in discussing with me, welcome and feel free to drop me an email (ximyanne@proton.me, mengyueh@outlook.com) or reach out via WeChat (ID: mengyue414141).
+If you are interested in discussing with me, welcome and feel free to drop me an email (ximy@alumni.sysu.edu.cn, mengyueh@outlook.com).
 
-<span style="color: #d73a49;">I’m taking a gap year to work on my PhD applications. Should you have an opening and take interest in my background, please feel free to contact me at mengyueh@outlook.com</span>
+<span style="color: #d73a49;">I’m taking a gap year to work on my PhD applications. Should you have an opening and take interest in my background, please feel free to contact me at ximy@alumni.sysu.edu.cn or mengyueh@outlook.com</span>
 
 <!-- Here is my  <a href ="../files/CV.pdf">CV</a>. -->
 <!-- Here is my <a href="../files/CV.pdf" title="Mengyue Xi's CV">CV</a>. -->

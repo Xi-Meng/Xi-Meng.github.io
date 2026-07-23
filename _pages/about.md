@@ -33,7 +33,7 @@ If you are interested in discussing with me, welcome and feel free to drop me an
   - **Mengyue Huang**, Zhanhui Li, Tim Purell, Mingqiao Li, Zhengru Wang, Nirmal Saxena
   - Accepted at SC 2026 (The International Conference for High Performance Computing, Networking, Storage, and Analysis), Chicago, IL, USA, Nov. 15–20, 2026.
 
-- [Mpache: Interaction Aware Multi-level Cache Bypassing on GPUs](https://dl.acm.org/doi/10.1145/3658617.3697568)
+- [Mpache: Interaction Aware Multi-level Cache Bypassing on GPUs](https://dl.acm.org/doi/10.1145/3658617.3697568) <span style="font-size: 0.95em;"><span style="display: inline-block; border: 1px solid #d0d7de; border-radius: 6px; padding: 0 7px; line-height: 1.4; color: #57606a; background: #fff;"><a href="../files/25aspdac_mpache.pdf" style="color: #57606a; text-decoration: none;">paper</a></span> <span style="display: inline-block; border: 1px solid #d0d7de; border-radius: 6px; padding: 0 7px; line-height: 1.4; color: #57606a; background: #fff;">slide</span> <span style="display: inline-block; border: 1px solid #d0d7de; border-radius: 6px; padding: 0 7px; line-height: 1.4; color: #57606a; background: #fff;">code</span></span>
   - **Mengyue Xi**, Tianyu Guo, Xuanteng Huang, Zejia Lin, Xianwei Zhang\*
   - The 30th Asia and South Pacific Design Automation Conference (ASP-DAC), Tokyo Odaiba Miraikan, Japan, January 2025.
 

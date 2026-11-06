@@ -29,7 +29,7 @@ If you are interested in discussing with me, welcome and feel free to drop me an
 
 
 # 📝 Publications
-- DeepSim: SOL-based Explainable GPU Performance Projection with Multi-Task Learning
+- DeepSim: SOL-based Explainable GPU Performance Projection with Multi-Task Learning <span style="font-size: 0.95em;"><span style="display: inline-block; border: 1px solid #8c959f; border-radius: 6px; padding: 0 7px; line-height: 1.4; color: #1f2328; background: #f6f8fa; font-weight: 500;"><a href="../files/26sc_deepsim.pdf" style="color: inherit; text-decoration: none;">paper</a></span> <span style="display: inline-block; border: 1px solid #8c959f; border-radius: 6px; padding: 0 7px; line-height: 1.4; color: #1f2328; background: #f6f8fa; font-weight: 500;"><a href="../files/slides/26sc_deepsim.pdf" style="color: inherit; text-decoration: none;">slide</a></span> <span style="display: inline-block; border: 1px solid #8c959f; border-radius: 6px; padding: 0 7px; line-height: 1.4; color: #1f2328; background: #f6f8fa; font-weight: 500;"><a href="https://drive.google.com/file/d/1iC_ObgGwKYQkmasKLTRdIQflHTimslKO/view?usp=drive_link" style="color: inherit; text-decoration: none;">teaser video</a></span></span>
   - **Mengyue Huang**, Zhanhui Li, Tim Purell, Mingqiao Li, Zhengru Wang, Nirmal Saxena
   - <u>Accepted at SC 2026</u> (The International Conference for High Performance Computing, Networking, Storage, and Analysis), Chicago, IL, USA, Nov. 15–20, 2026.
 
